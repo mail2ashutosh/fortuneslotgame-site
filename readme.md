@@ -27,11 +27,16 @@ The Fortune Slot Game is a slot machine, offering a 5-reel, 3-row setup with ran
 | **M6**        | 17        | 0.3                | 0.6                | 1.2                |
 | **Bonus**     | 18        | -                  | -                  | -                  |
 
-### Demo Video
-To download the video, right-click the link below and select "Save link as..." to save the file to your computer.
+## Demo Video
+
+To download the video, click the link below and then click on the "View raw" link to save the file to your computer.
+
 [Download Demo Video (slot-poc-demo.mp4)](demo/slot-poc-demo.mp4)
 
 The video showcases the main features and gameplay of the Fortune Slot Game. Watch the video to get an overview of how the game functions and see a sample gameplay session.
+
+**Note:**
+The video file is too large to be previewed directly on GitHub, so please download the video to view it.
 
 ### Prerequisites
 - Required latest LTS Version: 20.11.0 (includes npm 10.2.4)

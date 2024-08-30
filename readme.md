@@ -3,12 +3,6 @@ Fortune Slot Game, a sample of H5 game.
 
 ## Introduction
 The Fortune Slot Game is a slot machine, offering a 5-reel, 3-row setup with randomized spins. Players win by matching symbols on adjacent reels, starting from the left. The game features animated winning symbols, a customizable paytable, and a user-friendly interface. The project captures the essence of casino slots, providing a fun, engaging experience while serving as a foundation of development concepts.
-
-## Demo Video
-Click the link below to download and view the demo video:
-[Download Demo Video](demo/slot-poc-demo.mp4)
-The video showcases the main features and gameplay of the Fortune Slot Game. Watch the video to get an overview of how the game functions and see a sample gameplay session.
-
 #### Symbol & Payout Sumarry
 
 | Symbol Name   | Symbol ID | Payout (3 Matches) | Payout (4 Matches) | Payout (5 Matches) |
@@ -32,6 +26,12 @@ The video showcases the main features and gameplay of the Fortune Slot Game. Wat
 | **M5**        | 16        | 0.4                | 0.8                | 1.6                |
 | **M6**        | 17        | 0.3                | 0.6                | 1.2                |
 | **Bonus**     | 18        | -                  | -                  | -                  |
+
+### Demo Video
+To download the video, right-click the link below and select "Save link as..." to save the file to your computer.
+[Download Demo Video (slot-poc-demo.mp4)](demo/slot-poc-demo.mp4)
+
+The video showcases the main features and gameplay of the Fortune Slot Game. Watch the video to get an overview of how the game functions and see a sample gameplay session.
 
 ### Prerequisites
 - Required latest LTS Version: 20.11.0 (includes npm 10.2.4)
